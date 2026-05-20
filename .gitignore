@@ -6,7 +6,7 @@ npm-debug.log
 
 # Ignore all plugins except the one being developed
 /plugins/*
-!/plugins/copyright-date-block/**
+# !/plugins/copyright-date-block/**
 
 # Ignore all themes except the one being developed
 /themes/*
